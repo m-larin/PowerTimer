@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AquariumControl", "AquariumControl\AquariumControl.cproj", "{B3F7B5F2-58BC-41AB-B7EE-C0346A192839}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3F7B5F2-58BC-41AB-B7EE-C0346A192839}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B3F7B5F2-58BC-41AB-B7EE-C0346A192839}.Debug|AVR.Build.0 = Debug|AVR
+		{B3F7B5F2-58BC-41AB-B7EE-C0346A192839}.Release|AVR.ActiveCfg = Release|AVR
+		{B3F7B5F2-58BC-41AB-B7EE-C0346A192839}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
